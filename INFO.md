@@ -1,4 +1,5 @@
-git is awesome!
+[Git is awesome!]
+Not enought
 new line
 experiment with amend
 New data
